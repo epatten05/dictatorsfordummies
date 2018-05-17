@@ -1,0 +1,239 @@
+@@ -1,2 +1,238 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Dictators for Dummies</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+body  {
+    background-image: url("https://www.nustm.org/wp-content/uploads/2017/06/background-image-html.jpg");
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: white
+}
+
+td, th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+    color: white;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+h6 {
+  color: white;
+}
+</style>
+</head>
+<body>
+  <h1 align="center"> All about dictators</h1>
+  <h6 align="center">By:Ella</h6>
+<div class="container">
+  <ul class="nav nav-pills">
+    <li><a data-toggle="pill" href="#menu1">What makes a good dictator?</a></li>
+    <li><a data-toggle="pill" href="#menu2">Finding the right enviroment</a></li>
+      <li><a data-toggle="pill" href="#menu3">Winning over the hearts of the people</a></li>
+      <li><a data-toggle="pill" href="#menu4">Why people follow a dictator</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="menu1" class="tab-pane fade">
+<center><h1>What makes a good dictator?</h1>
+<h2>Learning about dictators</h2></center>
+<h3>Adolf Hitler:</h3>
+<h4>Hitler was an evil man. Characteristics of Hitler are powerful, violent and rude. He was powerful because he was
+  the dictator of Germany and could do whatever he wanted because his people were at the mercy of him. He was violent
+  in his everyday life, he was usually violent. Whether it was the people of his country, his country or other countries
+  he was mean or violent to, he was usually violent to someone. He was also rude. A great example of this is when he
+  went after the Jews to kill them. This was rude because they are just people who didn't do anything wrong other
+  than upset Hitler in someway. There were a few things that led Hitler to come to power. One of them was he hated
+  the Treaty of Versailles because it made Germnany look weak and he didn't like his country or himself looking
+  weak. Hitler joined the party in 1919 which could have lead him to want to take over Germany. Hitler earned an
+  iron cross which made him confident in himself. He then started the 25 point program which started him on the
+  right path to becoming a dictator. As we know, he was terribly mean to the Jews and attempted to sieze power in
+  Bavaria, but managed instead, to take power in other countries. Hitler wanted Germany to be superior. He didn't
+  want Germany to falter and be embarrassed again like they were at the end of the first world war. He was embarrassed
+  and disappointed in Germany's performance in WWI so he wanted to take over so that it didn't happen again.</h4>
+<h3>Joseph Stalin:</h3>
+  <h4>Stalin was a ruthless, trusting and intelligent negotiator. He was a communist who was somewhat trusting and
+    he was very cruel. He was an intelligent and ruthless person who didn't like excuses. Soemthings that helped
+    him rise to power is when he was young, he was run over by a car and that disformed his left arm so it was
+    shorter than his right. People then made fun of him because of his disformed arm. His mother wanted him
+    to become a priest, but he didn't want to pursue that, so he became a dictator. Someone exposed him to
+    socialism and he was a communist after reading <i>Communist Manifesto</i>. He was also a great negotiator.
+    He was incredibly ruthless in his attacks on other countries or people and he tried to bargin from a good
+    position. That is why he always traded from a good stance. At first, he liked Hitler and they got along,
+    but after the war, Stalin hated Hitler, but still wanted to trust him. Stalin was a good negotiator, so that's why he could bargin from
+    a good position. Stalin had both socialist and communist beliefs. He started building a power base right
+    away. He was high in the ranks after Lenin died, so he took power. Stalin took control of the Soviet Union.
+    He killed and exiled members.</h4>
+<h3>Benito Mussolini:</h3>
+  <h4> Mussolini likes terrorizing people. He was bald most of his life. A trait that Mussolini had was he could
+    charm people into liking him, but in the end, those same people would end up being the ones that threw him
+    out of power and the ones that killed him. Some of the things that led him to take power was he had support
+    in Italy's entry into WWI which is why he was drafted into Italy's army. Before that, he was a journalist
+    in the socailist press. His father was a blacksmith and that is what his father wanted him to do, but that
+    wasn't what was in store for him. Some traits he had as a dictator is that he terrorized his political
+    opponents. He had a dream of re-establishing Italy and he had a plan to do so and he was enforcing his
+    dream however he could.</h4>
+<h3>Hideki Tojo</h3>
+  <h4>Hideki Tojo was a dictator that had full power and he thought he could get as much power as he needed
+    so he could be the chief and dictator. He came from an imperial background in his family. When Hirohito's father
+    passed away, he became emperor of Japan. So Hirohito was the emperor of Japan or the God of Japan. He is worshiped
+    like a god. If something is said by him, then the people will do it without thinking twice. Hideki is a military
+    general and dictator. He ran the country off of what Hideki THOUGHT Hirohito wanted. He then slowly put himself
+    in charge of the army, foreign affairs, education, commerce and the munitions industry.</h4>
+<h3>Qualities dictators should have:</h3>
+<h4>Every dictator should possess the qualities of having a clear plan for the country, persuading, and having the
+  country’s best interests at heart because it empowers them to make good choices for their country, makes them popular
+   and makes them more ruthless. </h4>
+<h3>What led to the rise of dictators:</h3>
+<h4>If people are unhappy with the government, then this will lead to a dictatorship because the country has a
+  power gap and there is a ineffectual government and a lack of change.</h4>
+    </div>
+    <div id="menu2" class="tab-pane fade">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQXYbqWooZA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<h3>Lyrics to follow along</h3>
+<h5>
+Dictatorships aren’t cool
+<br>
+Hitler was a big killer; he wasn’t a fool
+<br>
+DESPERATION, false information, sad nation, leads to CORONATION
+<br>
+How do you get to a dictatorship?
+<br>
+With CONDEMNATION?
+<br>
+<br>
+The struggle of power Yo
+<br>
+Slowly losing territories, yeah
+<br>
+weak militaries political instabilities
+<br>
+Desperation, man
+<br>
+The struggle of power Yo
+<br>
+Slowly losing territories, yeah
+<br>
+Weak military
+<br>
+an environment full of disinformation yo
+<br>
+State of intense nationalism
+<br>
+No rationalism
+<br>
+<br>
+Dictatorships aren’t cool
+<br>
+Hitler was a big killer; he wasn’t a FOol
+<br>
+DESPERATION, false information, sad nation, leads to CORONATION
+<br>
+DEEESSSPPERRATTTTIOOOONNNNNNN!!!!!!!!
+<br>
+How do you get to a dictatorship? With CONDEMNATION?
+<br>
+<br>
+TOTALITARIANISM!!!! Follow the leader; Stalin was a beater!!!
+<br>
+No individual thinking
+<br>
+It’s simple ... Just follow the leader.
+<br>
+FASCISM!!!! Militarism is GREAT!! No thinking, or approach will a DEATH DATE!!!!!!!!
+<br>
+<br>
+HITLER!!!
+<br>
+He was a big KILLERRR yo
+<br>
+He didn’t follow the rules
+<br>
+He was ruthless and a tyrant yeah
+<br>
+He was very CRUEL
+<br>
+Who was he mean to?
+<br>
+He was mean to the Jews!
+<br>
+Created a common enemy yo
+<br>
+Rallied the Germans against the FEWW!
+<br>
+They were innocent, yes they were
+<br>
+He used their deaths for his CAUSE!
+<br>
+<br>
+Dictatorships aren’t cool
+<br>
+Hitler was a big killer; he wasn’t a FOOL
+<br>
+DESPERATION, false information, sad nation, leads to CORONATION
+<br>
+DEEESSSPPERRATTTTIOOOONNNNNNN!!!!!!!!
+<br>
+How do you get to a dictatorship? With CONDEMNATION?
+</h5>
+</div>
+    <div id="menu3" class="tab-pane fade">
+<h2>Winning the hearts of the people through propaganda</h2>
+<h4>During WWII, when Hitler was in power and Joseph Goebbels was chief of propaganda, propaganda for Hitler and his way of controlling and ruling spiked. On top of there being posters everywhere supporting Hitler and throwing the Jews under the bus, the Germans took an extra step, to get rid of all the books that they didn’t like the ideas of them. Many books were burned because they were inspirational and thought of turning against the government if the reader didn’t like how things were done. They also were burned because their writers were Jewish. Another reason they were burned is because the books showed different beliefs than the Germans believed so the Germans got rid of them. The article Nazi Propaganda and Censorship states “On that night more than 25,000 books were burned. Some were works of Jewish writers, including Albert Einstein and Sigmund Freud. Most of the books were by non-Jewish writers, including such famous Americans as Jack London, Ernest Hemingway, and Sinclair Lewis, whose ideas the Nazis viewed as different from their own and therefore not to be read” This article also talks about how new textbooks were written by the Germans. These textbooks included obedience for the party and love for Hitler. Everywhere, people were celebrating Hitler’s birthday and the date he came to power. Even after school groups taught about being faithful to Hitler and their country. As you can see, during WWII, Germany was in a total dictatorship because of how much hitler controlled everything people read, said and celebrated.
+<br>
+<br>
+The source, Description of Nazi Propaganda Themes, is about how the Nazi’s used propoganda to convince the people that their truth is the right truth. First of all, they “Made a Leader” and “Rallied the Nation.” “Making a leader” basically meant that they gave the revolution a face, Hitler, and “Rallying the Nation” basically meant that they got everyone on their side and their goal was well known. The next two steps were “Defining the Enemy” and “Indoctrinating Youth.” “Defining the Enemy” was when they went against the Jews to make Germany have a clear goal, and “Indoctrinating Youth” was the purpose of Hitler Youth so that the next generation of Germany would grow up with Hitler’s ideals and carry on Germany when the first generation passed. FInally, the last three steps were “Writing the News,” “Deceiving the Public,” and “Assessing Guilt.” They wrote the news so that their propaganda would be interpreted as truth, this linked with deceiving the public so that the public thinks that their best interests are being taken into consideration, when in reality, it is only the dictator’s best interests, and, at the end, they assessed guilt and saw the error in their ways. Overall, this source highlighted the steps that Germany took with their propaganda and their propaganda themes.
+<br>
+<br>
+The rise of Nazi Germany was greatly influenced by the hard times after WWI. To start, Propaganda becomes the central tool to convince the mass of people to join and support the nazi. It was displayed when the Nazi party was created Hitler had Joseph Goebbels as the head of the ministry of propaganda. The ministry of propaganda basically had control over the hole media, which includes, art, music, films, books, and the radio. Finally, Hitler also thought that speeches was a big part of propaganda. He would plan every signal emotion he would use. Nazi Germany uses propaganda that will increase general moral and the support for the Nazi.
+</h4>
+</div>
+<div id="menu4" class="tab-pane fade">
+<h1> Warning!! Danger!! Dictators on the lose!</h1>
+<h3>Dear the Recipient of this Letter,
+  <br>
+  <Br>
+This letter is intended to warn you about an impending threat that the unaware stand no chance against: propaganda and dictators. Propaganda is information that portrays things that  are untrue or are made for the sake for winning the people over. Propaganda is usually targeted at certain people such as farmers, women, businessmen, children, and people of a certain religion. Dictators are usually the ones that put out the propaganda through someone else or by themselves. They usually put out the propaganda to influence someone to vote for or follow them. The reason you have no chance against dictators is because of how they rule. Dictators use their power to inflict fear among you. They can make you have fear by threatening you or someone you love. Another reason they are followed is because they seem like they know what they are doing and act like what they are doing is for the better of the people. The reason you don’t stand a chance against dictators and propaganda is because they are ruthless, undenyable and persuading.
+<br>
+<br>
+	Dictators and propaganda are ruthless and they don’t care what happens to anyone else, as long as it means whatever they care about gets to the top. As seen with Adolf Hitler and Joseph Stalin how ruthless they were toward their enemy. For Hitler, his enemy was the Jews, for Stalin, anyone who disagreed with him. They also both had things they wanted to work for either their country, their people, their family or anyone/thing that they wanted to do well. As seen with Hitler, he wanted Germany to rise to power and to not be a disgrace like they were in first world war, so he took charge and changed the minds of the people so they could become more powerful. As for Stalin, he wanted the Soviet Union to do well. He turned a peaceful and sleeping country into a powerful and militaristic country. Both dictators mostly ruled by terror and many of their own people died during their dictatorship. To add on, because the dictators overviewed all the propaganda, the propaganda was also somewhat ruthless. As an example, when Hitler ruled, his propaganda showed the Jew’s doing all the bad and causing all Germany’s problems so that Hitler could get his people all on the same page that he was on. The reason the propaganda is also ruthless is because it is what the dictator believes. If the dictator believes that Jews are bad, that is what the propaganda is going to show, that Jews are bad and should not be trusted. If the dictator believes that their country is horrible and they need to improve, that is what the propaganda is going to be about. To add on to this, writing things that are mean and “ruthless” it is a lot easier than saying it to their face. As you can see, both dictators and propaganda is ruthless.
+<br>
+<br>
+    Dictators and propaganda are undeniable because they use you feeling and choices against you, they will punish you if you if you choose not to listen, and they are very good at making it seem like they are the good guys. To start off, the propaganda they put in your head makes it seem like it was your decision when you have to make a choice about something. In class, Mr. Haydel made it seem like we were going to clap for Mya and when we didn’t, he tried to make us feel bad. This was a bit like
+  propaganda because it messes with your feelings. Another reason people follow a dictator is because if they don’t, their punishment will be pretty bad if not death. Because dictators have so much power, they can really do anything they want to you. Lastly, they use propaganda to make it seem like they are the good guys. Dictators want to make you think that they are good, and anyone who is against them is bad. As you can see, Dictators use propaganda to make it seem like when you make a choice that it was your decision, they will punish you if you don’t listen, and they will make them look like the good guys to make you want to follow them.
+<br><br>
+  Finally, relating to the previous paragraph, dictators are quite persuasive. In history, Hitler was very persuasive because he, not only rose to power after dropping out of high school, but he managed to make a powerful country turn against a group of innocent people: the Jews. This takes some skill because, like all groups, they were mainly innocent, but also like all groups, there are some bad people that are Jews and he used those as a representation of all the Jews which isn’t accurate. Next, Joseph Stalin had his own methods of persuasion. He loved to bargain from a higher position, was ruthless in his attacks, and he had a plan so he started building a gigantic power base right away. Finally, Mussolini had his own tactics of persuasion. Like Hitler, he had a supposed “charm” and could use words to his will, and also like Hitler, he terrorized and threatened people. Overall, persuasion is a skill that all dictators need to have and have had in the past.
+<br><br>
+	Overall, you must heed our warning and ignore and distrust the propaganda that you are presented to: it may be difficult because you see propaganda a great deal more than you may think, but if you are careful, you can avoid the pull of propaganda. You just have to watch out for possible dictators and see if they’re actually doing what they are saying they’re doing and they’re not making any false promises. If you don’t, your country may be the next Holocaust Germany and a group, maybe your group, may be singled out and killed and hated by the rest of your country. You must also encourage others to do the same, as there is quite some power in the masses and stop reading anything that seems excessively biased and false, unless it is for entertainment purposes and will not cloud your opinions. If you do not do these things, we will all be an unwilling slave to an official’s darkest desires and everything that we do would be for them, and not for the people.
+
+</div>
+<script>
+document.getElementById("defaultOpen").click();
+</script>
+</html>
